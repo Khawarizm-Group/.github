@@ -1,4 +1,6 @@
-# Khawarizm Group
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=42&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Khawarizm+Group" />
+</p>
 
 <p align="center">
   <img src="Header.png" alt="Khawarizm Group Banner" style="width:100%;">
