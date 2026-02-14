@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=42&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Khawarizm+Group" />
+  <strong style="font-size:48px;">Khawarizm Group</strong>
 </p>
 
 <p align="center">
