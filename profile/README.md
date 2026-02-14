@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size:48px;">Khawarizm Group</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=48&duration=4000&pause=800&color=000000&center=true&vCenter=true&width=900&height=80&lines=Khawarizm+Group" />
 </p>
 
 <p align="center">
