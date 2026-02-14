@@ -1,7 +1,7 @@
 # Khawarizm Group
 
 <p align="center">
-  <img src="Header.png" alt="Khawarizm Group Banner" width="600">
+  <img src="Header.png" alt="Khawarizm Group Banner" style="width:100%;">
 </p>
 
 ---
