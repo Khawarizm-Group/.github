@@ -69,14 +69,13 @@
 </p>
 
 <div align="center">
-
-```
-               Quality
-              /       \
-             /         \
-       Consistency --- Growth
-```
-
+  <table>
+    <tr>
+      <td align="center" width="250"><strong>Quality</strong></td>
+      <td align="center" width="250"><strong>Consistency</strong></td>
+      <td align="center" width="250"><strong>Growth</strong></td>
+    </tr>
+  </table>
 </div>
 
 <br>
