@@ -25,19 +25,8 @@
 <h2 align="center">Who We Are</h2>
 
 <p align="center">
-  <strong>Khawarizm Group</strong> is named after <strong>Muhammad ibn Musa al-Khwarizmi</strong>, the 9th-century Persian mathematician<br>
-  whose groundbreaking work gave the world the very concept of the <strong>algorithm</strong> and laid the foundations of <strong>algebra</strong>.<br>
-  His pursuit of turning complex problems into structured, repeatable solutions is the spirit we carry forward.
-</p>
-
-<br>
-
-<p align="center">
-  We are a collaborative technology team driven by the same principle: <strong>solving problems through logic and structure</strong>.<br>
-  From software development to system design, we focus on practical learning, disciplined execution,<br>
-  and building real-world projects that sharpen our skills and push our limits.<br><br>
-  Just as al-Khwarizmi transformed scattered knowledge into universal methods,<br>
-  we transform ideas into <strong>clean code, scalable systems, and meaningful products</strong>.
+  Named after <strong>Al-Khwarizmi</strong>, the father of algebra and algorithms, <strong>Khawarizm Group</strong> is a collaborative tech team<br>
+  that turns ideas into clean code and real-world projects through structured learning and disciplined execution.
 </p>
 
 <br>
