@@ -120,7 +120,7 @@
 <h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khawarizm-Group&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=ffffff&area=true&hide_border=true" width="90%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZwdTExNXBoc3p6d2thNW51aTlqdmZ0d3l4OGtncnZwbnJybzZnciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jX8jTn63SF1f7Cnzcy/giphy.gif" width="90%">
 </div>
 
 <br>
