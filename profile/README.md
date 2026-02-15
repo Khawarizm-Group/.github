@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Header.png" alt="Khawarizm Group Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Khawarizm-Group/.github/main/profile/Header.png" alt="Khawarizm Group Banner" width="100%">
 
   <br><br>
 
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br>
@@ -35,17 +35,17 @@
   <table>
     <tr>
       <td align="center" width="250">
-        <img src="https://img.icons8.com/fluency/96/code.png" width="50"><br>
+        <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="50"><br>
         <strong>Software Development</strong><br>
         <sub>Building robust and scalable applications</sub>
       </td>
       <td align="center" width="250">
-        <img src="https://img.icons8.com/fluency/96/design.png" width="50"><br>
+        <img src="https://skillicons.dev/icons?i=figma&theme=light" width="50"><br>
         <strong>Design</strong><br>
         <sub>Crafting intuitive user experiences</sub>
       </td>
       <td align="center" width="250">
-        <img src="https://img.icons8.com/fluency/96/innovation.png" width="50"><br>
+        <img src="https://skillicons.dev/icons?i=idea&theme=light" width="50"><br>
         <strong>Innovation</strong><br>
         <sub>Exploring emerging technologies</sub>
       </td>
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br>
@@ -82,7 +82,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br>
@@ -97,7 +97,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br>
@@ -113,7 +113,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br>
@@ -127,7 +127,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br>
