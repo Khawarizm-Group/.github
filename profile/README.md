@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header" width="100%">
 </div>
 
 <br>
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header" width="100%">
 </div>
 
 <br>
@@ -82,7 +82,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header" width="100%">
 </div>
 
 <br>
@@ -97,7 +97,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header" width="100%">
 </div>
 
 <br>
@@ -113,7 +113,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header" width="100%">
 </div>
 
 <br>
@@ -127,7 +127,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header" width="100%">
 </div>
 
 <br>
